@@ -1,0 +1,11 @@
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\bin\Debug\LB1_FlashCards.exe.config
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\bin\Debug\LB1_FlashCards.exe
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\bin\Debug\LB1_FlashCards.pdb
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.csproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.frmFlashCards.resources
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.Properties.Resources.resources
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.exe
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh12\Chapter12Programs\LB1_FlashCards\obj\Debug\LB1_FlashCards.pdb
