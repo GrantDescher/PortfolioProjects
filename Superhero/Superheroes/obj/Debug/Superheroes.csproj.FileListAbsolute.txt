@@ -1,0 +1,11 @@
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\bin\Debug\Superheroes.exe.config
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\bin\Debug\Superheroes.exe
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\bin\Debug\Superheroes.pdb
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.csproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.frmSuperheroes.resources
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.Properties.Resources.resources
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.exe
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\Labs\LabsCh9-10\Superheroes\obj\Debug\Superheroes.pdb

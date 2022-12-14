@@ -1,0 +1,73 @@
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\bin\Debug\GarthProject.exe.config
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\bin\Debug\GarthProject.exe
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\bin\Debug\GarthProject.pdb
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.frmMainForm.resources
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.frmSplashScreen.resources
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.exe
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.pdb
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\bin\Debug\MusicLibrary.dll
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\bin\Debug\MusicLibrary.pdb
+C:\Users\jpscott\Desktop\Garth\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CopyComplete
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\bin\Debug\GarthProject.exe.config
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\bin\Debug\GarthProject.exe
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\bin\Debug\GarthProject.pdb
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\bin\Debug\MusicLibrary.dll
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\bin\Debug\MusicLibrary.pdb
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.frmMainForm.resources
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.frmSplashScreen.resources
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CopyComplete
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.exe
+C:\Users\jpscott\Desktop\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.pdb
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\bin\Debug\GarthProject.exe.config
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\bin\Debug\GarthProject.exe
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\bin\Debug\GarthProject.pdb
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\bin\Debug\MusicLibrary.dll
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\bin\Debug\MusicLibrary.pdb
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.AssemblyReference.cache
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.frmMainForm.resources
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.frmSplashScreen.resources
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.Properties.Resources.resources
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.GenerateResource.cache
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CopyComplete
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.exe
+C:\Users\Grant\Downloads\Garth - Copy\Garth - Copy\GarthSolution\GarthProject\obj\Debug\GarthProject.pdb
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\bin\Debug\GarthProject.exe.config
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\bin\Debug\GarthProject.exe
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\bin\Debug\GarthProject.pdb
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\bin\Debug\MusicLibrary.dll
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\bin\Debug\MusicLibrary.pdb
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.frmMainForm.resources
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.frmSplashScreen.resources
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.Properties.Resources.resources
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CopyComplete
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.exe
+C:\Users\Grant\Desktop\Programming\GarthSolution\GarthProject\obj\Debug\GarthProject.pdb
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\bin\Debug\GarthProject.exe.config
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\bin\Debug\GarthProject.exe
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\bin\Debug\GarthProject.pdb
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\bin\Debug\MusicLibrary.dll
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\bin\Debug\MusicLibrary.pdb
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.frmMainForm.resources
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.frmSplashScreen.resources
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.Properties.Resources.resources
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.csproj.CopyComplete
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.exe
+C:\Users\Grant\Desktop\DBProjectPt2\GarthSolution\GarthProject\obj\Debug\GarthProject.pdb

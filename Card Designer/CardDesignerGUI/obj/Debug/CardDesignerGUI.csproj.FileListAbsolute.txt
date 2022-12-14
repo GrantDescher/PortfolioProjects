@@ -1,0 +1,11 @@
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\bin\Debug\CardDesignerGUI.exe.config
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\bin\Debug\CardDesignerGUI.exe
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\bin\Debug\CardDesignerGUI.pdb
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.frmCardDesigner.resources
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.Properties.Resources.resources
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.exe
+C:\Users\Grant\Desktop\AWD1100-Fall2022-GrantDescher\HOTs\HOTs\CardDesignerGUI\obj\Debug\CardDesignerGUI.pdb
