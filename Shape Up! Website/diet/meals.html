@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="'width=device-width, initial-scale=1.0">
+	<title>Shape Up!</title>
+	<link rel="shortcut icon" href="../images/favicon.ico">
+	<link rel="stylesheet" href="../styles/normalize.css">
+	<link rel="stylesheet" href="../styles/meals.css">
+	<link rel="stylesheet" href="../styles/slicknav.css">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="../js/jquery.slicknav.min.js"></script>
+	<script type="text/javascript"> 
+	$(document).ready(function() {
+		$("#nav_menu").slicknav({prependTo:"#mobile_menu"})
+	});
+	</script>
+</head>
+
+<body>
+	<header>
+		<a href="index.html"><img src="../images/shape_up_logo.png" alt="Shape Up Logo"></a>
+		<h2>Shape Up!</h2>
+		<h3>Find the best fit for you</h3><br>
+	</header>
+	<main>
+		<nav id="mobile_menu"></nav>
+		<nav id="nav_menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="strength/index.html">Strength Training</a></li>
+				<li><a href="cardio/index.html">Cardio Exercises</a></li>
+				<li><a href="stress/index.html">Stress Relief</a>
+					<ul>
+						<li><a href="index.html">What is Stress?</a></li>
+						<li><a href="index.html">5 Helpful Tips</a></li>
+						<li><a href="index.html">Meditation</a></li>
+						<li><a href="index.html">Vipassana</a></li>
+					</ul>
+				</li>
+				<li><a href="diet/index.html" class="current">Healthy Diets</a></li>
+			</ul>
+		</nav>
+		
+	<aside id="sidebarA">
+			<h2>Additional resources</h2>
+			<ul>
+				<li><a href="https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm#:~:text=Regular%20physical%20activity%20is%20one,ability%20to%20do%20everyday%20activities.">Physical activity and health</a></li>
+				<li><a href="https://www.webmd.com/fitness-exercise/ss/slideshow-stretches-to-get-loose">Stretching exercises</a></li>
+				<li><a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670">Strength training</a></li>
+				<li><a href="https://www.medicalnewstoday.com/articles/cardio-exercises-at-home">Cardiovascular training</a></li>
+				<li><a href="https://www.everydayhealth.com/fitness-pictures/yoga-poses-for-beginners.aspx">Yoga workout</a></li>
+			</ul>
+	</aside>
+
+	<section>
+		<h2>Meal plan order form</h2>
+		<p>Fill out the form as completely as possible and we will email you a weekly meal plan, customized for you-your lifestyle, your goals, and your personal needs. (Asterisks (*) indicate required entries.)</p>
+		<form id="meal_form" action="meal_request.html">
+			<fieldset>
+			<legend>Tell us about yourself</legend>
+			<label for="fullName">* Full Name</label>
+			<input type="text" id="fullName" autofocus required><br>
+			<label for="email">* E-Mail</label>
+			<input type="email" id="email" required><br>
+			<label for="gender">Gender</label>
+			<select name="gender" id="gender">
+				<option value="select">Select an Option</option>
+				<option value="male">Male</option>
+				<option value="female">Female</option>
+				<option value="other">Other</option>
+				<option value="pna">Prefer not to Answer</option>
+			</select><br>
+			<label for="height">Height</label>
+			<input type="text" id="height" placeholder="Example: 5ft 6in"><br>
+			<label for="weight">Weight</label>
+			<input type="text" id="weight" placeholder="Example: 145lbs"><br>
+			<label for="age">Age</label>
+			<select name="age" id="age">
+				<option value="select">Select Your Age</option>
+				<option value="15-25">15-25</option>
+				<option value="25-40">25-40</option>
+				<option value="40-60">40-60</option>
+				<option value="60+">60+</option>
+			</select><br>
+			</fieldset>
+			<fieldset>
+				<legend>Lifestyle and goals</legend>
+				<label for="current">What currently matches your present lifestyle?</label><br>
+				<label for="active">Active</label>
+				<input type="radio" id="active"><br>
+				<label for="moderate">Moderate</label>
+				<input type="radio" id="moderate"><br>
+				<label for="sedentary">Sedentary</label>
+				<input type="radio" id="sedentary"><br><br>
+
+				<label for="plan">Are you planning to increase your activity as you change your diet?</label><br>
+				<label for="yes">Yes</label>
+				<input type="radio" id="yes"><br>
+				<label for="no">No</label>
+				<input type="radio" id="no"><br><br>
+
+				<label for="goals">What are your weight goals?</label><br>
+				<label for="gain">Gain weight</label>
+				<input type="radio" id="gain"><br>
+				<label for="lose">Lose weight</label>
+				<input type="radio" id="lose"><br>
+				<label for="maintain">Maintain current weight</label>
+				<input type="radio" id="maintain"><br>
+			</fieldset>
+			<fieldset>
+				<legend>Food preferences and restrictions</legend>
+				<label for="restrictions">Do you have any dietary restrictions? (select all that apply)</label><br>
+				<label for="vegetarian">Vegetarian</label>
+				<input type="checkbox" id="vegetarian">
+				<label for="glutenFree">Gluten-Free</label>
+				<input type="checkbox" id="glutenFree">
+				<label for="kosher">Kosher</label>
+				<input type="checkbox" id="kosher">
+				<label for="lowSalt">Low-Salt</label>
+				<input type="checkbox" id="lowSalt"><br>
+				<label for="other">Other, please explain:</label>
+				<input type="checkbox" id="other"><br>
+				<textarea id="otherText" cols="60" rows="5"></textarea>
+			</fieldset>
+			<fieldset> 
+				<legend>Comments:</legend>
+				<p>Include any additional information that will help us develop a custom menu designed to match your lifestyle and your goals.</p>
+				<textarea id="comments" cols="60" rows="5"></textarea>
+			</fieldset>
+			<fieldset>
+				<legend>Process your information</legend>
+				<button>Submit now</button>
+				<button>Start over</button>
+			</fieldset>
+		</form>
+	</section>
+
+</main>
+
+<footer>
+	<p>&copy; 2023 Shape Up!</p> <br>
+</footer>
+</body>
+</html>

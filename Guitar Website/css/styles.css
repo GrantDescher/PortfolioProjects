@@ -1,0 +1,244 @@
+/* Global Settings */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navbar Settings */
+
+#navbar {
+    background-color: rgb(247,247,247);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #333;
+    width: 100%;
+    height: 10vh;
+    position: fixed;
+}
+
+#navbar h1 {
+    width: 10%;
+} 
+
+#navbar ul {
+    display: flex;
+    position: relative;
+    list-style: none;
+}
+
+#navbar ul li a {
+    display: block;
+    width: 20%;
+    padding: 10px 20px;
+    margin: 0px 5px;
+    text-decoration: none;
+    color: #333;
+}
+
+#navbar ul li:hover {
+    background-color: #aaa;
+}
+ 
+#navbar img {
+    height: 10vh;
+    max-width: 10%;
+    min-width: 100px;
+}
+
+/* Hero settings */
+
+.hero {
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    margin: auto;
+    display: flex;
+}
+
+.hero h2 {
+    font-size: 200%;
+}
+
+.hero div {
+    width: 40%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 5em;
+}
+
+.hero img {
+    height: 40vh;
+    width: 100%;
+}
+
+.button {
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 15px;
+    color: #fff;
+    background-color: #4682b4;
+    border: none;
+    border-radius: 5px;
+	margin-top: 15px;
+    width: 10em;
+}
+
+/* Three column settings */
+
+.three {
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+    background-color: #4682b4;
+}
+
+.three div {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.three i {
+    border: 3px solid #333;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+/* Main h2 setting */
+
+main h2 {
+    text-align: center;
+    padding: 3rem;
+}
+
+/* Four column settings */
+
+.four {
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.four div {
+    width: 20%;
+    padding: 3em;
+    text-align: center;
+}
+
+.four div img {
+    padding: 6px;
+    width: 75%;
+}
+
+/* Footer settings */
+
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: #4682b4;
+    color: #fff;
+}
+
+/* Media Queries */
+
+/* Mobile */
+
+@media (max-width: 459px) {
+
+    #navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 10vh;
+        position: fixed;
+    }
+    
+    #navbar ul {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        list-style: none;
+    }
+    
+    #navbar ul li a {
+        display: block;
+        width: 50%;
+        text-decoration: none;
+        color: #333;
+        background-color: rgb(247,247,247);
+    }
+    
+    #navbar ul li:hover {
+        background-color: #aaa;
+    }
+     
+    #navbar img {
+        height: 10vh;
+        max-width: 10%;
+        min-width: 100px;
+    }
+
+    .hero {
+        width: 125%;
+        flex-direction: column-reverse;
+    }
+    
+    .hero h2 {
+        font-size: 200%;
+    }
+    
+    .hero div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        padding: 5em;
+    }
+
+    .three {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 20vh;
+        background-color: #4682b4;
+    }
+    
+    .three div {
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .four {
+        flex-direction: column;
+    }
+}
+
+/* Tablet */
+
+@media (max-width: 749px) {
+
+    .four {
+        height: 200%;
+    }
+
+    .four div{
+       width: 50%;
+       height: 50%;
+    }
+}
+
+
+

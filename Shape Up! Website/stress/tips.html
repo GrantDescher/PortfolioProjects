@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="'width=device-width, initial-scale=1.0">
+		<title>Shape Up!</title>
+		<link rel="shortcut icon" href="../images/favicon.ico">
+		<link rel="stylesheet" href="../styles/normalize.css">
+		<link rel="stylesheet" href="../styles/main_rwd.css">
+		<link rel="stylesheet" href="../styles/slicknav.css">
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+		<script src="../js/jquery.slicknav.min.js"></script>
+		<script type="text/javascript"> 
+		$(document).ready(function() {
+			$("#nav_menu").slicknav({prependTo:"#mobile_menu"})
+		});
+		</script>
+	</head>
+
+<body>
+	<header>
+		<a href="index.html"><img src="../images/shape_up_logo.png" alt="Shape Up Logo"></a>
+		<h2>Shape Up!</h2>
+		<h3>Find the best fit for you</h3><br>
+	</header>
+	<main>
+		<nav id="mobile_menu"></nav>
+		<nav id="nav_menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="strength/index.html">Strength Training</a></li>
+				<li><a href="cardio/index.html">Cardio Exercises</a></li>
+				<li><a href="stress/index.html" class="current">Stress Relief</a>
+					<ul>
+						<li><a href="index.html">What is Stress?</a></li>
+						<li><a href="index.html">5 Helpful Tips</a></li>
+						<li><a href="index.html">Meditation</a></li>
+						<li><a href="index.html">Vipassana</a></li>
+					</ul>
+				</li>
+				<li><a href="diet/index.html">Healthy Diets</a></li>
+			</ul>
+		</nav>
+
+		<aside id="sidebarA">
+				<h2>Additional resources</h2>
+				<ul>
+					<li><a href="https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm#:~:text=Regular%20physical%20activity%20is%20one,ability%20to%20do%20everyday%20activities.">Physical activity and health</a></li>
+					<li><a href="https://www.webmd.com/fitness-exercise/ss/slideshow-stretches-to-get-loose">Stretching exercises</a></li>
+					<li><a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670">Strength training</a></li>
+					<li><a href="https://www.medicalnewstoday.com/articles/cardio-exercises-at-home">Cardiovascular training</a></li>
+					<li><a href="https://www.everydayhealth.com/fitness-pictures/yoga-poses-for-beginners.aspx">Yoga workout</a></li>
+				</ul>
+		</aside>
+		
+		<section>
+			<h1>Stress relief tips</h1>
+			<p>
+				Here are five tips that can help you relieve stress on a daily basis.
+			</p>
+			<img class="stress_img" src="../images/break.jpg" alt="Image of Relaxation">
+			<h2>Take a break from what you're doing</h2>
+			<p>
+				Maybe it's hard to get away from a big work project, a crying baby or a growing credit card bill. But give yourself permission to step away from it for a short time. Don't avoid your stressors (those bills have to be paid sometime), but take a few minutes for yourself.
+			</p>
+			<img class="stress_img" src="../images/exercise.jpg" alt="Image of Pushups">
+			<h2>Exercise on a regular basis</h2>
+			<p>
+				Exercise is a huge part of being healthy, and it benefits your mind as well as your body. It doesn't have to be an hour a day; even a 20-minute walk in the midst of a stressful time can give you an immediate effect that can last for several hours.
+			</p>
+			<img class="stress_img" src="../images/smile.jpg" alt="Image of Woman Smiling">
+			<h2>Take time to smile and laugh</h2>
+			<p>
+				When people are stressed, they often hold a lot of the stress in their face. Laughs and smiles can help relieve some of that tension and improve the situation. And if you share your smile with someone else, it will them release some of their tension too!
+			</p>
+			<img class="stress_img" src="../images/support.jpg" alt="Image of People">
+			<h2>Get support from family and friends</h2>
+			<p>
+				Call a friend, send an email. Sharing your concerns does help relieve stress. But pick a person who you feel can understand you. If your co-workers are the stressors, it probably won't alleviate your stress if you share your worries over credit card bills with one of them.
+			</p>
+			<img class="stress_img" src="../images/meditate.jpg" alt="Image of Meditation">
+			<h2>Meditate</h2>
+			<p>
+				Meditation helps the mind and body to relax and focus. When meditating, people can release emotions that may have been causing the body physical stress. Research has shown that even meditating briefly can reap immediate benefits.
+			</p>
+		</section>
+		
+	</main>
+
+	<footer>
+		<p>&copy; 2023 Shape Up!</p>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,258 @@
+*{
+    font-family: sans-serif; 
+ }
+ 
+ body {
+     font-family: sans-serif;
+     width: 95%;
+     max-width: 1024px;
+     margin: 0 auto;
+     border: steelblue;
+     border-width: 5px;
+     border-style: solid;
+     box-shadow: 0 .625em 1.25em .625em;
+     padding: 0px;
+ }
+ 
+ /* the styles for the header */
+ 
+ header {
+     border: none;
+     background-image: linear-gradient(white, lightsteelblue);
+     padding: 15px 3.333%;
+ }
+ 
+ header h2 {
+     text-indent: 5%;
+     color: steelblue;
+     font-style: italic;
+     text-shadow: 2px 2px steelblue;
+     font-size: 250%;
+ }
+ 
+ header h3 {
+     text-indent: 5%;
+     font-size: 140%;
+ }
+ 
+ header img {
+     float: left;
+     width: 14.1414%;
+     max-width: 140px;
+     min-width: 70px;
+ }
+ 
+ /* Navigation menu */
+ #nav_menu {
+     border-bottom: 2px solid steelblue;
+     display: flex;
+     align-items: center;
+ }
+ #nav_menu ul {
+     list-style: none;
+     position: relative;
+     display: flex;
+     margin: 0;
+     padding: 0;
+ }
+ #nav_menu ul li {
+     width: 20%;
+     
+ }
+ #nav_menu ul ul {
+     display: none;
+     position: absolute;
+     top: 100%;
+ }
+ #nav_menu ul li:hover > ul {
+     display: block;
+ }
+ #nav_menu > ul::after {
+     content: "";
+     clear: both;
+     display: block;
+ }
+ #nav_menu ul li a {
+     text-align: center;
+     display: block;
+     width: 12.85em;
+     padding: .7em 0;
+     text-decoration: none;
+     background-color: steelblue;
+     color: #fff;
+ }
+ #nav_menu ul li a.current {
+     color: #000;
+ }
+ #nav_menu ul li a:hover, #nav_menu ul li a:focus {
+     background-color: #b0c4de;
+ }
+ 
+ #nav_menu ul li:hover ul {
+     width: 100%;
+ }
+
+ #container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+ }
+ 
+ /* the styles for the section */
+
+ section {
+    width: 50%;
+    padding: 1.5625em 3.3333%;
+}
+
+section h1 {
+    font-size: 160%;
+}
+
+section h3 {
+    color: #800000;
+}
+
+section a:link {
+    color: maroon;
+}
+
+section a:visited {
+    color: maroon;
+}
+
+section a:hover {
+    color: steelblue
+}
+ 
+ /* the styles for sidebar A */
+ 
+ #sidebarA {
+     float: left;
+     width: 25%;
+     padding: 1.5625em;
+ }
+ 
+ #sidebarA h2 {
+     font-size: 130%;
+     color: maroon;
+     margin-bottom: 8px;
+ }
+ 
+ #sidebarA ul {
+     line-height: 1.5;
+     margin: 0;
+ }
+ 
+ #sidebarA a:link {
+     color: steelblue;
+     text-decoration: none;
+ }
+ 
+ #sidebarA a:visited {
+     color: steelblue;
+ }
+ 
+ #sidebarA a:hover {
+     color: maroon;
+ }
+ 
+ #sidebarA a:focus {
+     color: maroon;   
+ }
+ 
+ /* the styles for the footer */
+ footer {
+     clear: both;
+     text-align: center;
+     font-size: 75%;
+     background-color: steelblue;
+     color: white;
+     height: 15px;
+     line-height: 1.5;
+ }
+ 
+ #mobile_menu {
+     display: none;
+ }
+ 
+ /* media queries */
+ 
+ @media only screen and (max-width: 900px) {
+     body {
+         font-size: 90%;
+         box-shadow: none;
+     }
+ }
+ 
+ @media only screen and (max-width: 767px) {
+     #nav_menu {
+         display: none;
+     }
+ 
+     .slicknav_menu {
+         background: steelblue !important;
+         padding: 3px !important;
+     }
+ 
+     #mobile_menu {
+         display: block;
+     }
+ 
+     #mobile_menu ul {
+         background-color: steelblue;
+     }
+ 
+     #mobile_menu a {
+         background-color: steelblue;
+     }
+ 
+     #mobile_menu a:hover, 
+     #mobile_menu a:focus {
+         background-color: lightsteelblue;
+     }
+ 
+     header h2 {
+         font-size: 200%;
+     }
+ 
+     section {
+         float: none;
+         width: 93.3334%;
+     }
+ 
+     aside {
+         float: none;
+         width: 93.3334%;
+         padding-top: 0;
+         padding-bottom: 1.5625em;
+     }
+
+     #container {
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	aside {
+		order: 1;
+	}
+
+	section {
+		width: 90%;
+		flex-wrap: wrap;
+	}
+ }
+ 
+ @media only screen and (max-width: 479px) {
+     header h2 {
+         font-size: 180%;
+     }
+ 
+     header h3 {
+         font-size: 115%;
+     }
+ 
+     section p {
+         font-size: 95%;
+     }
+ }

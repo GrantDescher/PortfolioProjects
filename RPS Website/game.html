@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Rock Paper Scissors</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div id="navbar" class="navbar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="game.html">Play Now</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <form class="form" method="post" action="post">
+            <h1>Rock Paper Scissors Game</h1>
+            <h3 class="select">Select a Move!</h3>
+            <div class="gameButtons">
+                <input type="button" name="rock" value="Rock" id="rock">
+                <input type="button" name="paper" value="Paper" id="paper">
+                <input type="button" name="scissors" value="Scissors" id="scissors"> <br><br>
+            </div>
+            <div class="gameResults">
+                <input class="computerGuess" type="text" value="" id="computerGuess" disabled><br><br>
+                <label class="result">Wins:</label>
+                <input type="text" value="" id="wins" disabled><br><br>
+                <label class="result">Losses:</label>
+                <input type="text" value="" id="losses" disabled><br><br>
+                <label class="result">Ties:</label>
+                <input type="text" value="" id="ties" disabled>
+                <div id="resultPicture"></div>
+            </div>
+        </form>
+    </main>
+    <script src="js/game.js"></script>
+</body>
+</html>

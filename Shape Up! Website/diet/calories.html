@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="'width=device-width, initial-scale=1.0">
+	<title>Shape Up!</title>
+	<link rel="shortcut icon" href="../images/favicon.ico">
+	<link rel="stylesheet" href="../styles/normalize.css">
+	<link rel="stylesheet" href="../styles/calories.css">
+	<link rel="stylesheet" href="../styles/slicknav.css">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="../js/jquery.slicknav.min.js"></script>
+	<script type="text/javascript"> 
+	$(document).ready(function() {
+		$("#nav_menu").slicknav({prependTo:"#mobile_menu"})
+	});
+	</script>
+</head>
+
+<body>
+	<header>
+		<a href="index.html"><img src="../images/shape_up_logo.png" alt="Shape Up Logo"></a>
+		<h2>Shape Up!</h2>
+		<h3>Find the best fit for you</h3><br>
+	</header>
+	<main>
+		<nav id="mobile_menu"></nav>
+		<nav id="nav_menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="strength/index.html">Strength Training</a></li>
+				<li><a href="cardio/index.html">Cardio Exercises</a></li>
+				<li><a href="stress/index.html">Stress Relief</a>
+					<ul>
+						<li><a href="index.html">What is Stress?</a></li>
+						<li><a href="index.html">5 Helpful Tips</a></li>
+						<li><a href="index.html">Meditation</a></li>
+						<li><a href="index.html">Vipassana</a></li>
+					</ul>
+				</li>
+				<li><a href="diet/index.html" class="current">Healthy Diets</a></li>
+			</ul>
+		</nav>
+		
+		<aside id="sidebarA">
+				<h2>Additional resources</h2>
+				<ul>
+					<li><a href="https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm#:~:text=Regular%20physical%20activity%20is%20one,ability%20to%20do%20everyday%20activities.">Physical activity and health</a></li>
+					<li><a href="https://www.webmd.com/fitness-exercise/ss/slideshow-stretches-to-get-loose">Stretching exercises</a></li>
+					<li><a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670">Strength training</a></li>
+					<li><a href="https://www.medicalnewstoday.com/articles/cardio-exercises-at-home">Cardiovascular training</a></li>
+					<li><a href="https://www.everydayhealth.com/fitness-pictures/yoga-poses-for-beginners.aspx">Yoga workout</a></li>
+				</ul>
+		</aside>
+
+		<section>
+			<h1>Calorie Counter</h1>
+			<table>
+				<thead>
+					<th>Category</th>
+					<th>Food</th>
+					<th>Serving Size</th>
+					<th>Calories</th>
+				</thead>
+				<tr>
+					<th class="category">Beef</th>
+					<th>Frankfurter, Beef</th>
+					<th>1 each</th>
+					<th>184</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Ground Beef</th>
+					<th>4 oz</th>
+					<th>264</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>T-Bone Steak</th>
+					<th>8 ounces</th>
+					<th>402</th>
+				</tr>
+				<tr>
+					<th class="category">Bread</th>
+					<th>Bagel, plain</th>
+					<th>1 bagel</th>
+					<th>360</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Bread, sliced</th>
+					<th>1 slice</th>
+					<th>60 to 80</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>English Muffin</th>
+					<th>1</th>
+					<th>135</th>
+				</tr>
+				<tr>
+					<th class="category">Cereal</th>
+					<th>Cheerios</th>
+					<th>1 cup</th>
+					<th>110</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Corn Flakes</th>
+					<th>1 cup</th>
+					<th>100</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Oatmeal, quick</th>
+					<th>1 cup cooked</th>
+					<th>145</th>
+				</tr>
+				<tr>
+					<th class="category">Cheese</th>
+					<th>American</th>
+					<th>1 ounce</th>
+					<th>106</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Swiss</th>
+					<th>1 ounce</th>
+					<th>100</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Cheddar</th>
+					<th>1 ounce</th>
+					<th>114</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Cottage Cheese, regular</th>
+					<th>1/2 cup</th>
+					<th>117</th>
+				</tr>
+				<tr>
+					<th class="category">Fruit</th>
+					<th>Apple</th>
+					<th>1 medium</th>
+					<th>80</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Banana</th>
+					<th>1</th>
+					<th>105</th>
+				</tr>
+				<tr>
+					<th class="category">Vegetables</th>
+					<th>Corn, fresh</th>
+					<th>1 medium ear</th>
+					<th>88</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Carrot, raw</th>
+					<th>1 medium</th>
+					<th>25</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Celery</th>
+					<th>1 large stalk</th>
+					<th>9</th>
+				</tr>
+				<tr>
+					<th class="category">Miscellaneous</th>
+					<th>Milk, whole</th>
+					<th>1 cup</th>
+					<th>157</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Eggs</th>
+					<th>1</th>
+					<th>70</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Peanut butter</th>
+					<th>2 tablespoons</th>
+					<th>188</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Pasta</th>
+					<th>1/2 cup dry</th>
+					<th>200</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Rice</th>
+					<th>1 cup cooked</th>
+					<th>204</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Canned tuna, in water</th>
+					<th>2 ounces</th>
+					<th>70</th>
+				</tr>
+				<tr>
+					<th></th>
+					<th>Baked Potato</th>
+					<th>1 medium</th>
+					<th>130</th>
+				</tr>
+			</table>
+		</section>
+	
+	</main>
+
+<footer>
+	<p>&copy; 2023 Shape Up!</p> <br>
+	
+</footer>
+</body>
+</html>
