@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlvyVvkxtTECczr6AGhE+BwAAAAACAAAAAAAQZgAAAAEAACAAAADK4AlKpZXwQeKBbLJVr93O97qdJD1zNYiDz1R7Z9p1XgAAAAAOgAAAAAIAACAAAADRG5iAf/w5Zvj8xk2Wki1CN6SwciRdsFP6maZxpUb7h4AAAABlux7RgATMFelZQo6+l1t7mE17mqKLJ3BysXB/PzqeDTWNA9mqvFAlXAQl4aq2rA3IyliYaGzc+JNtknoxTdukbEakrbDc+O/wAxuxZZA0CshsLFsxl0Wl0Cz89a114Y7J5qjBQvXQ2ax4cesRQCc5YUV7FFWJIak2+UVbW4kxo0AAAABMB6cGwYU7zuGBDZaoup+iTgZryJpv9mTTPNcl+cu3Vt5CuQBIXjSib8T0u3kPxekqK+VcFiepp4BxPDJMo5bY</EncryptedPassword>
+    <History>True|2023-12-20T00:05:27.6578033Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PCStoreContext">
+      <Value>Data Source=pcstoredbserver.database.windows.net,1433%3bInitial Catalog=PCStore_db%3bUser ID=grantdescher%3bPassword=Dewey3197</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="PCStore.Models.DataLayer.PCStoreContext">
+      <Value>Data Source=pcstoredbserver.database.windows.net,1433%3bInitial Catalog=PCStore_db%3bUser ID=grantdescher%3bPassword=Dewey3197</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

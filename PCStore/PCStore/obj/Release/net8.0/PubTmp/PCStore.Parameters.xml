@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PCStoreGrantDescher" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="PCStore.Models.DataLayer.PCStoreContext" description="" value="Data Source=pcstoredbserver.database.windows.net,1433;Initial Catalog=PCStore_db;User ID=grantdescher;Password=Dewey3197" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\PCStore\.Models\.DataLayer\.PCStoreContext\.sql$" />
+  </parameter>
+</parameters>
